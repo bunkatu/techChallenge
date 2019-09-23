@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Marketim</string>
+
+    <!--Login Activity-->
+    <string name="login_title">marketim</string>
+    <string name="login_hint_username">Kullanıcı Adı</string>
+    <string name="login_hint_password">Şifre</string>
+    <string name="login_remember_me">Beni Hatırla</string>
+    <string name="login_button">Giriş</string>
 </resources>
