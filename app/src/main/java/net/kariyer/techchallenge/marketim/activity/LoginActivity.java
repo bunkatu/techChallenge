@@ -1,7 +1,9 @@
-package net.kariyer.techchallenge.marketim;
+package net.kariyer.techchallenge.marketim.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import net.kariyer.techchallenge.marketim.R;
 
 public class LoginActivity extends AppCompatActivity {
 
